@@ -1,6 +1,7 @@
 # 🚗 Volkswagen AutoSync Companion App Prototype
 
-**Intelligent AI Assistant for Connected Vehicle Ownership**
+**Intelligent AI Assistant for Connected Vehicle Ownership**    
+https://youtu.be/EiBQ5WBguns
 
 ## ✨ Project Overview
 
