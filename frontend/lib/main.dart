@@ -12,7 +12,7 @@ void main() {
 
 class AutoSyncApp extends StatelessWidget {
   const AutoSyncApp({super.key});
-
+//main app
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
