@@ -2,8 +2,12 @@
 
 **Intelligent AI Assistant for Connected Vehicle Ownership**
 
-🎬 **Watch the Demo:**  
-[Click here to view the video](frontend/assets/demo.mp4)
+## 🎥 Demo Video
+
+<video src="frontend/assets/demo.mp4" width="600" controls>
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## ✨ Project Overview
