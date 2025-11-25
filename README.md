@@ -3,10 +3,8 @@
 **Intelligent AI Assistant for Connected Vehicle Ownership**
 
 ## 🎥 Demo Video
+https://github.com/user-attachments/assets/a57adb96-c6cb-4027-92ed-9e783af8c491
 
-<video src="frontend/assets/demo.mp4" width="600" controls>
-  Your browser does not support the video tag.
-</video>
 
 
 
