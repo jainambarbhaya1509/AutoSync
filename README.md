@@ -3,6 +3,11 @@
 **Intelligent AI Assistant for Connected Vehicle Ownership**    
 https://youtu.be/EiBQ5WBguns
 
+## 🎥 Demo Video
+https://github.com/user-attachments/assets/19ebb7d9-cac6-4455-911e-3c7aa54c067a
+
+
+
 ## ✨ Project Overview
 
 This repository hosts the prototype design and foundational assets for the **Volkswagen AutoSync Companion App**. This application is designed to revolutionize the driver experience by integrating a powerful, conversational **AutoSync AI Assistant** directly into the vehicle management interface.
